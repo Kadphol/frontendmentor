@@ -1,2 +1,2 @@
-# frontendmentor
-Solution for Frontend Mentor (frontendmentor.io)
+# Solution for Frontend Mentor Challenge
+[Frontend Mentor](frontendmentor.io)
